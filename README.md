@@ -29,7 +29,7 @@ Hi, I'm **Syed Uzair Gillani**, an enthusiastic Electrical Engineer currently ex
 I am eager to go deeper into advanced technologies such as ML, AI, and Computer Vision to contribute to groundbreaking projects in these fields. I also aim to collaborate with fellow engineers and developers to push the boundaries of what's possible and make impactful contributions to the tech community.
 
 ## Contributions
-I believe in the power of collaboration and open-source development. You are all welcome 
+I believe in the power of collaboration and open-source development.  
 
 ***Feel free to explore my repositories and contribute to my projects by adding new features, fixing bugs, or proposing unique ideas. Join me in exciting new projects. Let’s connect and innovate together!***
 
