@@ -14,6 +14,8 @@ Hi, I'm **Syed Uzair Gillani**, an enthusiastic Electrical Engineer currently ex
 
 **-Project Management:** Skilled in managing projects from inception to completion, ensuring timely delivery and effective coordination among team members. 
 
+**-Partnerships and Collaborations:** Actively involved in forming partnerships and collaborations that drive innovation and growth. I work closely with peers, organizations, and developers to bring ideas to life and create impactful solutions.
+
 ## Current Projects
 **-FOSSSC:** A Free, Open-Source Software Stack Cluster for Digital System Design.
 
