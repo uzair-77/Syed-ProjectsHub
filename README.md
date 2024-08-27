@@ -6,6 +6,7 @@
 Hi, I'm **Syed Uzair Gillani**, an enthusiastic Electrical Engineer currently exploring the dynamic domain of engineering and technology. With a passion for hands-on projects and innovative solutions, I'm thrilled to share my journey through this GitHub repository. From circuit designs to software development, this space reflects my dedication to both learning and contributing to the tech community.
 
 ## What I Do
+
 **-Electrical Engineering:** Engaging in projects that span across electronic circuit design, signal processing, and embedded systems. I'm particularly focused on practical applications that blend hardware and software.
 
 **-Programming:** Proficient in C, C++, Python, and Assembly language. My projects often involve developing algorithms and software solutions.
